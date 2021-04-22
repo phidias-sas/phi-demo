@@ -1,0 +1,1 @@
+.quiz-question{border-radius:var(--ui-radius);padding:var(--ui-padding);background-color:rgba(0,0,255,.03)}.quiz-question .quiz-title{white-space:pre-wrap}.quiz-question .quiz-options{font-size:14px}.quiz-question.--required .quiz-title:before{content:"*";color:var(--ui-color-danger)}

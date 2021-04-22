@@ -1,0 +1,1 @@
+.StmtFunction .stmt-function-args .function-arg:after{content:", "}.StmtFunction .stmt-function-args .function-arg:last-child:after{content:""}.StmtFunction .stmt-function-args input{width:80px;font-size:12px;text-align:center;padding:0;margin:0;border-radius:3px;border:1px solid #ccc}
